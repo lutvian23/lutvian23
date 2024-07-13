@@ -19,5 +19,5 @@
 
 | Bootstrap | Tailwind CSS | Framer Motion | DaisyUI |
 |-----------|--------------|---------------|---------|
-| ![Bootstrap](https://getbootstrap.com/docs/5.1/assets/brand/bootstrap-logo-shadow.png) | ![Tailwind CSS](https://tailwindcss.com/_next/static/media/tailwindcss-mark.cebb0ed4.svg) | ![Framer Motion](https://framer.com/motion/brand/framer-motion.svg) | ![DaisyUI](https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-4.svg) |
+| <img src="https://getbootstrap.com/docs/5.1/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="50"> | <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS" width="50"> | <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="Framer Motion" width="50"> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLjriJ3Pylplf9wiqVZiSuuCQGomHicU1J0XjdtC4IzwweHqMrus3lLGiZ_TjXds6bLAs&usqp=CAU" alt="DaisyUI" width="50"> |
 
