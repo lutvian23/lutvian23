@@ -7,7 +7,7 @@
 
 | PHP | JavaScript |
 |-----|------------|
-| ![PHP](https://www.php.net/images/logos/php-logo.svg) | ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png) |
+| <img src="https://www.php.net/images/logos/php-logo.svg" alt="PHP" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50"> |
 
 ### Best Libraries for Fullstack Development:
 
