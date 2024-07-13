@@ -13,7 +13,7 @@
 
 | Laravel | CodeIgniter | Next.js |
 |---------|-------------|---------|
-| ![Laravel](https://laravel.com/img/logomark.min.svg) | ![CodeIgniter](https://codeigniter.com/assets/images/ci-logo-big.png) | ![Next.js](https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg) |
+| <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="50"> | <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="50"> |
 
 ### Styling Tools:
 
